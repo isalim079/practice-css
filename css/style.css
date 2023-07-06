@@ -1,3 +1,9 @@
 *{
     margin: 0;
 }
+.pointer_progress{
+    cursor:progress;
+}
+.pointer{
+    cursor:pointer;
+}
