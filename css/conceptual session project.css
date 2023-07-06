@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0px;
+}
+.top_bar{
+    background-color: darksalmon;
+    display: flex;
+    height: 80px;
+    align-items: center;
+    font-size: 18px;
+    box-shadow: 5px 2px 5px rgb(74, 61, 58);
+}
+.logo{
+    margin-left: 50px;
+}
+.menu{
+    display: flex;
+    list-style: none;
+    margin-left: 950px;
+}
+.home{
+    padding: 20px;
+}
