@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.box{
+    padding: 20px;
+    background-color: aquamarine;
+    width: 190px;
+}
+.box2{
+    background-color:rgb(13, 77, 77);
+    color: aliceblue;
+}
+.box3{
+    background-color: bisque;
+    /* width: 300px; */
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    align-self: center;
+    /* flex-direction: row-reverse; */
+}
